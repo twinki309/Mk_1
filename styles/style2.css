@@ -2,3 +2,6 @@
     border-style: solid;
     background-color: lightgrey;
 }
+.box span {
+    font-style: italic;
+}
